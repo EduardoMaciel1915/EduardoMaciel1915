@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Eduardo Maciel 👋
 ## 
 
-- 🔭 Hoje estou trabalhando na área da qualidade.
-- 🌱 Estudando progamação.
-- ⚡ Em busca de oportunidade para atuar como programador Front-End!
+- 🔭 Estágiário de Desenvolvimento na MB Labs.
+- 🌱 Estudante de Análise e Desenvolvimento de Sistmeas.
+- ⚡ Escritor de bugs.
 
 <div align="center">
   <a href="https://github.com/EduardoMaciel1915">
